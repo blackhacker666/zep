@@ -436,8 +436,8 @@ This command will send text to [group_id]
 
 ⚠️  تنها معاونان و مديران ميتوانند 
 جزييات مديريتی گروه را تغيير دهند.
-Channel : @sparta_antispam
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹�🔹
+Channel : @lua_programing
+🔹🔹🔹🔹🔹🔹🔹🔹🔹
 ]]
   }
   serialize_to_file(config, './data/config.lua')
